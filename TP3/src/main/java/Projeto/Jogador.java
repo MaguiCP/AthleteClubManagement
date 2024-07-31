@@ -93,7 +93,7 @@ public final class Jogador {
         this.codEquipa = jogador.codEquipa;
         this.equipa = new Equipa(jogador.equipa);
         this.atleta = new Atleta(jogador.atleta);
-        setJogadores(new ArrayList<>());
+        this.jogadores = new ArrayList<>();
 
     }
 

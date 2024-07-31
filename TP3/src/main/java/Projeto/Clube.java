@@ -100,11 +100,6 @@ public final class Clube {
         this.contactoTelefonico = contactoTelefonico;
         this.correioEletronico = correioEletronico;
         this.data = data;
-        listaAtletas = new ArrayList<>();
-        listaModalidade = new ArrayList<>();
-        listaJogador = new ArrayList<>();
-        listaEquipa = new ArrayList<>();
-        listaPremio = new ArrayList<>();
 
     }
 
@@ -125,11 +120,6 @@ public final class Clube {
         this.contactoTelefonico = clube.contactoTelefonico;
         this.correioEletronico = clube.correioEletronico;
         this.data = clube.data;
-        listaAtletas = new ArrayList<>(clube.listaAtletas);
-        listaModalidade = new ArrayList<>(clube.listaModalidade);
-        listaJogador = new ArrayList<>(clube.listaJogador);
-        listaEquipa = new ArrayList<>(clube.listaEquipa);
-        listaPremio = new ArrayList<>(clube.listaPremio);
 
     }
 

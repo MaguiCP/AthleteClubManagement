@@ -85,7 +85,7 @@ public final class Premio {
         this.equipa = premio.equipa;
         this.designacao = premio.designacao;
         this.anoAtribuicao = premio.anoAtribuicao;
-        this.listaPremio = new ArrayList<>(premio.listaPremio);
+        this.listaPremio = new ArrayList<>();
     }
 
     /**

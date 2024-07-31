@@ -62,7 +62,6 @@ public final class Modalidade {
         this.listarModalidades = new ArrayList<>();
         this.nome_modalidade = modalidade.nome_modalidade;
         this.anoAtivacao = modalidade.anoAtivacao;
-        listarModalidades = new ArrayList<>(modalidade.listarModalidades);
 
     }
 
