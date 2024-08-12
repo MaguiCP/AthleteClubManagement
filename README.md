@@ -8,14 +8,14 @@ Este projeto é um sistema de gestão para um clube de atletas. Permite registar
 
 ## Funcionalidades
 
-- Regista novos atletas no clube.
-- Adiciona novas modalidades ao clube.
-- Cria novas equipas para as modalidades.
-- Insere jogadores em equipas específicas.
-- Regista prémios individuais para jogadores.
-- Calcula a quantidade de prémios individuais por atleta e por modalidade.
-- Remove jogadores de equipas específicas.
-- Exibe informações detalhadas sobre atletas, equipas, modalidades e prémios.
+- Registar novos atletas no clube.
+- Adicionar novas modalidades ao clube.
+- Criar novas equipas para as modalidades.
+- Inserir jogadores em equipas específicas.
+- Registar prémios individuais para jogadores.
+- Calcular a quantidade de prémios individuais por atleta e por modalidade.
+- Remover jogadores de equipas específicas.
+- Exibir informações detalhadas sobre atletas, equipas, modalidades e prémios.
 
 ### English
 
