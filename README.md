@@ -1,8 +1,8 @@
 # Athlete Club Management System (Sistema de Gestão de Clube de Atletas)
 
-### Português
+## Português
 
-## Descrição
+### Descrição
 
 Este projeto é um sistema de gestão para um clube de atletas. Permite registar e gerir informações sobre atletas, modalidades, equipas e prémios. As funcionalidades incluem adicionar atletas e equipas, listar informações, adicionar jogadores a equipas, premiar jogadores e calcular a quantidade de prémios individuais.
 
@@ -17,9 +17,9 @@ Este projeto é um sistema de gestão para um clube de atletas. Permite registar
 - Remover jogadores de equipas específicas.
 - Exibir informações detalhadas sobre atletas, equipas, modalidades e prémios.
 
-### English
+## English
 
-## Description
+### Description
 This project is a management system for an athletes' club. It allows for the registration and management of information about athletes, sports modalities, teams, and awards. Features include adding athletes and teams, listing information, adding players to teams, awarding players, and calculating the number of individual awards.
 
 ## Features
